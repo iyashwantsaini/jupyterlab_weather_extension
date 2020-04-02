@@ -21,9 +21,9 @@ I tried 3 ways of running extensions :
 In my published extension I have used the 1st way i.e accessing via launcher icon.
 
 screenshots : 
-![alt text](task2/leftpanel.png)
-![alt text](task2/tab.png)
-![alt text](task2/launchericon.png)
+![alt text](leftpanel.png)
+![alt text](tab.png)
+![alt text](launchericon.png)
 
 ---
 
