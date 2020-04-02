@@ -2,6 +2,30 @@
 
 Jupyter lab weather extension made using ReactJs.
 
+## Weather JupyterLab extension
+
+Extension published on npm : @meyash/labweather
+Link : https://www.npmjs.com/package/@meyash/labweather  
+
+Installation Instructions :
+1) conda create -n labweather jupyterlab nodejs
+2) conda activate labweather
+3) jupyter labextension install @meyash/labweather
+4) jupyter lab
+
+I tried 3 ways of running extensions :
+1) via launcher icon
+2) via left side bar
+3) via command palette
+
+In my published extension I have used the 1st way i.e accessing via launcher icon.
+
+screenshots : 
+![alt text](task2/leftpanel.png)
+![alt text](task2/tab.png)
+![alt text](task2/launchericon.png)
+
+---
 
 ## Requirements
 
