@@ -1,8 +1,6 @@
 # labweather
 
-![Github Actions Status](https://github.com/meyash/myextension/workflows/Build/badge.svg)
-
-shows_weather
+Jupyter lab weather extension made using ReactJs.
 
 
 ## Requirements
