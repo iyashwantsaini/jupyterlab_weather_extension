@@ -1,37 +1,46 @@
-# labweather
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://raw.githubusercontent.com/meyash/jupyterlab_weather_extension/master/img/lab.png" alt="logo" width="400"></a>
+  <br>
+    Jlab Weather Extension | ReactJs | TypeScript
+  <br>
+</h1>
 
-Jupyter lab weather extension made using ReactJs.
+<h4 align="center">JupyterLab is the next-generation web-based user interface for Project Jupyter.</h4>
 
 ## Weather JupyterLab extension
 
-Extension published on npm : @meyash/labweather
-Link : https://www.npmjs.com/package/@meyash/labweather  
+- Extension published on npm : @meyash/labweather
+- Link : https://www.npmjs.com/package/@meyash/labweather  
 
-Installation Instructions :
+### Installation Instructions
+
 1) conda create -n labweather jupyterlab nodejs
 2) conda activate labweather
 3) jupyter labextension install @meyash/labweather
 4) jupyter lab
 
-I tried 3 ways of running extensions :
+### Ways to run an extension in JupyterLab
+
 1) via launcher icon
 2) via left side bar
 3) via command palette
 
-In my published extension I have used the 1st way i.e accessing via launcher icon.
+This extension can be accessed via Launcher Icon.
 
-screenshots : 
-![alt text](leftpanel.png)
-![alt text](tab.png)
-![alt text](launchericon.png)
+### Screenshots
 
----
+<br />
+
+![alt text](img/leftpanel.png)
+![alt text](img/tab.png)
+![alt text](img/launchericon.png)
 
 ## Requirements
 
 * JupyterLab >= 1.0
 
-## Install
+## Installation
 
 ```bash
 jupyter labextension install @meyash/labweather
@@ -75,3 +84,19 @@ jupyter lab --watch
 jupyter labextension uninstall @meyash/labweather
 ```
 
+## License
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+By [Yashwant](https://github.com/meyash)
+
+## Contributors
+
+<img src="https://avatars3.githubusercontent.com/u/21121279?s=460&u=f0450278b2b569c4443ab8ee03f9dff7015da5bf&v=4" width="100px;" alt="toofff"/><br />
+
+<a href="https://meyash.xyz/" style="margin-right:30px;"><img src="https://meyash.xyz/assets/icons/siteicon.png" width="25"></a>
+<a href="https://meyash.xyz/resume.pdf" style="margin-right:30px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/libreoffice.svg" width="25"></a> 
+<a href="https://www.linkedin.com/in/meyash21/" style="margin-right:30px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25"></a>
+<a href="https://twitter.com/meyash21" style="margin-right:30px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="25"></a>
+<a href="https://www.instagram.com/meyash21/" style="margin-right:30px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="25"></a>
+<a href="https://www.codechef.com/users/meyash21" style="margin-right:30px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" width="25"></a>  
