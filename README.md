@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/meyash/jupyterlab_weather_extension/master/img/lab.png" alt="logo" width="400"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/meyash/jupyterlab_weather_extension/master/img/Jlab.png" alt="logo" width="400"></a>
   <br>
     Jlab Weather Extension | ReactJs | TypeScript
   <br>
